@@ -1,0 +1,22 @@
+/* start of global rules */
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --Slate-300: #d5e1ef;
+  --Slate-500: #68778d;
+  --Slate-900: #1f314f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: var(--Slate-300);
+}
+
+/* end of global rules */
