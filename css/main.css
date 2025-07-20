@@ -5,9 +5,9 @@ html {
 }
 
 :root {
-  --Slate-300: #d5e1ef;
-  --Slate-500: #68778d;
-  --Slate-900: #1f314f;
+  --yellow: #f4d04e;
+  --Gray-950: #111111;
+  --Gray-500: #6b6b6b;
 }
 
 * {
@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  font-family: "Outfit", sans-serif;
+  font-family: "Figtree", sans-serif;
   background-color: var(--Slate-300);
 }
 
